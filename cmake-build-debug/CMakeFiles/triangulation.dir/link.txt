@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/triangulation.dir/main.cpp.o  -o triangulation -lglfw -lGLEW -lGL -lCGAL -lgmp 
