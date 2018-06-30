@@ -57,7 +57,7 @@ int cntRayvertices = 0;
 
 const unsigned int SCR_WIDTH = 800;
 const unsigned int SCR_HEIGHT = 600;
-const float Scale = 10.0;
+const float Scale = 15.0;
 
 GLfloat vertices[3 * 5000000], Rayvertices[3 * 10000];
 
@@ -97,6 +97,15 @@ bool cmp(Vector3D V1, Vector3D V2) {
     const float EPSILON = 1e-7;
     if (abs(V1.x - V2.x) > EPSILON || abs(V1.y - V2.y) > EPSILON || abs(V1.z - V2.z) > EPSILON) return false;
     return true;
+}
+
+const long long RAND = 32767;
+
+long long Rand(long long l, long long h)
+{
+    return l + ((long long)(RAND + 1) * (RAND + 1) * (RAND + 1) +
+                (long long)(RAND + 1) * (RAND + 1) +
+                (long long)(RAND + 1) + RAND) % (h - l + 1);
 }
 
 
@@ -235,8 +244,6 @@ int main()
         oFileT << '(' << p << ") - (" << q << ')' << endl;
     }
 
-    float focal_length = 10.0;
-
 
     Delaunay::Triangulation_3::Finite_facets_iterator fit = T.finite_facets_begin();
 
@@ -276,16 +283,42 @@ int main()
 
         int ccntTriangle = 0;
 
-        if (j)
-        for(int i = 0; i < cntTriangle; ++i)
-            if (CheckTriangle(sTriangle[i])) sTriangle[ccntTriangle++] = sTriangle[i];
 
-        cntTriangle = ccntTriangle;
+
+        if (j) {
+            for (int i = 0; i < cntTriangle; ++i)
+                if (CheckTriangle(sTriangle[i]))
+                    sTriangle[ccntTriangle++] = sTriangle[i];
+
+            cntTriangle = ccntTriangle;
+        }
+
+        int ran = Rand(0, 3*cntTriangle - 1);
+        if (ran%3 == 0) RayO = sTriangle[ran/3].vertex0;
+        if (ran%3 == 1) RayO = sTriangle[ran/3].vertex1;
+        if (ran%3 == 2) RayO = sTriangle[ran/3].vertex2;
+
+        RayO = RayO - ORay;
+        RayT = normalize(RayO);
+
+        vertices[cnt++] = ORay.x;
+        vertices[cnt++] = ORay.y;
+        vertices[cnt++] = ORay.z;
+        vertices[cnt++] = RayO.x;
+        vertices[cnt++] = RayO.y;
+        vertices[cnt++] = RayO.z;
+
+        Vector3D abcc;
+        //cout<< RayIntersectsTriangle(RayO, RayT, sTriangle[ran/3], abcc) <<' '<< CheckTriangle(sTriangle[1])<<endl;
+        //cout<< vec3toPoint(RayO) <<' '<< cntTriangle <<endl;
+
+        int dem = 0;
 
         for(int i = 0; i < cntTriangle; ++i)
         if (CheckTriangle(sTriangle[i])) {
             Vector3D IntersectionPoint;
-            if (RayIntersectsTriangle(RayO, RayT, sTriangle[i], IntersectionPoint) == true) {
+
+            if (RayIntersectsTriangle(RayO, RayT, sTriangle[i], IntersectionPoint) ) {
                 Point P1 = vec3toPoint( sTriangle[i].vertex0 );
                 Point P2 = vec3toPoint( sTriangle[i].vertex1 );
                 Point P3 = vec3toPoint( sTriangle[i].vertex2 );
@@ -296,9 +329,10 @@ int main()
                 Map.erase(make_pair(P3, P2));
                 Map.erase(make_pair(P2, P3));
 
-
+                ++dem;
             }
         }
+        cout<< dem <<endl;
 
     }
 

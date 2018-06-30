@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/giang/Desktop/SpaceCarving/main.cpp
+bits/stdc++.h
+-
+random
+-
+GL/glew.h
+-
+GLFW/glfw3.h
+-
+shader.h
+/home/giang/Desktop/SpaceCarving/shader.h
+glm/glm.hpp
+-
+glm/gtc/matrix_transform.hpp
+-
+glm/gtc/type_ptr.hpp
+-
+CGAL/Exact_predicates_inexact_constructions_kernel.h
+-
+CGAL/Delaunay_triangulation_3.h
+-
+CGAL/Triangulation_vertex_base_with_info_3.h
+-
+
+/home/giang/Desktop/SpaceCarving/shader.h
+GL/glew.h
+-
+glm/glm.hpp
+-
+string
+-
+fstream
+-
+sstream
+-
+iostream
+-
+
