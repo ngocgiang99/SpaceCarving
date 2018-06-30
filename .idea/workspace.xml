@@ -12,363 +12,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8d9932c4-2f20-4529-8cc3-005e1d8e9316" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/SpaceCarving.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/CMakeCache.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/CMakeFiles/3.10.2/CMakeCCompiler.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/CMakeFiles/3.10.2/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/CMakeFiles/3.10.2/CMakeSystem.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/CMakeFiles/3.10.2/CompilerIdC/a.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/CMakeFiles/CMakeError.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/CMakeFiles/CMakeOutput.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/CMakeFiles/CMakeRuleHashes.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/CMakeFiles/Export/lib/cmake/glfw3/glfw3Targets-noconfig.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/CMakeFiles/Export/lib/cmake/glfw3/glfw3Targets.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/CMakeFiles/Makefile.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/CMakeFiles/Makefile2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/CMakeFiles/Progress/1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/CMakeFiles/Progress/19" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/CMakeFiles/Progress/20" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/CMakeFiles/Progress/22" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/CMakeFiles/Progress/23" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/CMakeFiles/Progress/24" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/CMakeFiles/Progress/25" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/CMakeFiles/Progress/26" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/CMakeFiles/Progress/27" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/CMakeFiles/Progress/28" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/CMakeFiles/Progress/29" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/CMakeFiles/Progress/30" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/CMakeFiles/Progress/31" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/CMakeFiles/Progress/32" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/CMakeFiles/Progress/33" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/CMakeFiles/Progress/34" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/CMakeFiles/Progress/35" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/CMakeFiles/Progress/36" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/CMakeFiles/Progress/77" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/CMakeFiles/Progress/94" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/CMakeFiles/Progress/count.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/CMakeFiles/TargetDirectories.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/CMakeFiles/cmake.check_cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/CMakeFiles/feature_tests.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/CMakeFiles/feature_tests.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/CMakeFiles/progress.marks" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/CMakeFiles/uninstall.dir/DependInfo.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/CMakeFiles/uninstall.dir/build.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/CMakeFiles/uninstall.dir/cmake_clean.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/CMakeFiles/uninstall.dir/progress.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/cmake_install.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/cmake_uninstall.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/examples/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/examples/CMakeFiles/boing.dir/C.includecache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/examples/CMakeFiles/boing.dir/DependInfo.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/examples/CMakeFiles/boing.dir/__/deps/glad.c.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/examples/CMakeFiles/boing.dir/build.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/examples/CMakeFiles/boing.dir/cmake_clean.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/examples/CMakeFiles/boing.dir/depend.internal" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/examples/CMakeFiles/boing.dir/depend.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/examples/CMakeFiles/boing.dir/flags.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/examples/CMakeFiles/boing.dir/link.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/examples/CMakeFiles/boing.dir/progress.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/examples/CMakeFiles/gears.dir/C.includecache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/examples/CMakeFiles/gears.dir/DependInfo.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/examples/CMakeFiles/gears.dir/__/deps/glad.c.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/examples/CMakeFiles/gears.dir/build.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/examples/CMakeFiles/gears.dir/cmake_clean.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/examples/CMakeFiles/gears.dir/depend.internal" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/examples/CMakeFiles/gears.dir/depend.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/examples/CMakeFiles/gears.dir/flags.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/examples/CMakeFiles/gears.dir/link.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/examples/CMakeFiles/gears.dir/progress.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/examples/CMakeFiles/heightmap.dir/DependInfo.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/examples/CMakeFiles/heightmap.dir/build.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/examples/CMakeFiles/heightmap.dir/cmake_clean.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/examples/CMakeFiles/heightmap.dir/depend.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/examples/CMakeFiles/heightmap.dir/flags.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/examples/CMakeFiles/heightmap.dir/link.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/examples/CMakeFiles/heightmap.dir/progress.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/examples/CMakeFiles/offscreen.dir/DependInfo.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/examples/CMakeFiles/offscreen.dir/build.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/examples/CMakeFiles/offscreen.dir/cmake_clean.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/examples/CMakeFiles/offscreen.dir/depend.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/examples/CMakeFiles/offscreen.dir/flags.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/examples/CMakeFiles/offscreen.dir/link.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/examples/CMakeFiles/offscreen.dir/progress.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/examples/CMakeFiles/particles.dir/DependInfo.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/examples/CMakeFiles/particles.dir/build.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/examples/CMakeFiles/particles.dir/cmake_clean.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/examples/CMakeFiles/particles.dir/depend.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/examples/CMakeFiles/particles.dir/flags.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/examples/CMakeFiles/particles.dir/link.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/examples/CMakeFiles/particles.dir/progress.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/examples/CMakeFiles/progress.marks" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/examples/CMakeFiles/sharing.dir/DependInfo.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/examples/CMakeFiles/sharing.dir/build.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/examples/CMakeFiles/sharing.dir/cmake_clean.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/examples/CMakeFiles/sharing.dir/depend.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/examples/CMakeFiles/sharing.dir/flags.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/examples/CMakeFiles/sharing.dir/link.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/examples/CMakeFiles/sharing.dir/progress.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/examples/CMakeFiles/simple.dir/C.includecache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/examples/CMakeFiles/simple.dir/DependInfo.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/examples/CMakeFiles/simple.dir/build.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/examples/CMakeFiles/simple.dir/cmake_clean.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/examples/CMakeFiles/simple.dir/depend.internal" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/examples/CMakeFiles/simple.dir/depend.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/examples/CMakeFiles/simple.dir/flags.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/examples/CMakeFiles/simple.dir/link.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/examples/CMakeFiles/simple.dir/progress.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/examples/CMakeFiles/splitview.dir/DependInfo.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/examples/CMakeFiles/splitview.dir/build.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/examples/CMakeFiles/splitview.dir/cmake_clean.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/examples/CMakeFiles/splitview.dir/depend.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/examples/CMakeFiles/splitview.dir/flags.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/examples/CMakeFiles/splitview.dir/link.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/examples/CMakeFiles/splitview.dir/progress.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/examples/CMakeFiles/wave.dir/C.includecache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/examples/CMakeFiles/wave.dir/DependInfo.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/examples/CMakeFiles/wave.dir/build.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/examples/CMakeFiles/wave.dir/cmake_clean.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/examples/CMakeFiles/wave.dir/depend.internal" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/examples/CMakeFiles/wave.dir/depend.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/examples/CMakeFiles/wave.dir/flags.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/examples/CMakeFiles/wave.dir/link.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/examples/CMakeFiles/wave.dir/progress.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/examples/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/examples/cmake_install.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/src/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/src/CMakeFiles/glfw.dir/C.includecache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/src/CMakeFiles/glfw.dir/DependInfo.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/src/CMakeFiles/glfw.dir/build.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/src/CMakeFiles/glfw.dir/cmake_clean.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/src/CMakeFiles/glfw.dir/cmake_clean_target.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/src/CMakeFiles/glfw.dir/context.c.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/src/CMakeFiles/glfw.dir/depend.internal" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/src/CMakeFiles/glfw.dir/depend.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/src/CMakeFiles/glfw.dir/egl_context.c.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/src/CMakeFiles/glfw.dir/flags.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/src/CMakeFiles/glfw.dir/glx_context.c.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/src/CMakeFiles/glfw.dir/init.c.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/src/CMakeFiles/glfw.dir/input.c.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/src/CMakeFiles/glfw.dir/link.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/src/CMakeFiles/glfw.dir/linux_joystick.c.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/src/CMakeFiles/glfw.dir/monitor.c.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/src/CMakeFiles/glfw.dir/osmesa_context.c.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/src/CMakeFiles/glfw.dir/posix_thread.c.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/src/CMakeFiles/glfw.dir/posix_time.c.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/src/CMakeFiles/glfw.dir/progress.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/src/CMakeFiles/glfw.dir/vulkan.c.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/src/CMakeFiles/glfw.dir/window.c.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/src/CMakeFiles/glfw.dir/x11_init.c.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/src/CMakeFiles/glfw.dir/x11_monitor.c.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/src/CMakeFiles/glfw.dir/x11_window.c.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/src/CMakeFiles/glfw.dir/xkb_unicode.c.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/src/CMakeFiles/progress.marks" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/src/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/src/cmake_install.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/src/glfw3.pc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/src/glfw3Config.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/src/glfw3ConfigVersion.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/src/glfw_config.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/src/libglfw3.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/clipboard.dir/DependInfo.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/clipboard.dir/build.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/clipboard.dir/cmake_clean.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/clipboard.dir/depend.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/clipboard.dir/flags.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/clipboard.dir/link.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/clipboard.dir/progress.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/cursor.dir/DependInfo.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/cursor.dir/build.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/cursor.dir/cmake_clean.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/cursor.dir/depend.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/cursor.dir/flags.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/cursor.dir/link.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/cursor.dir/progress.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/empty.dir/DependInfo.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/empty.dir/build.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/empty.dir/cmake_clean.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/empty.dir/depend.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/empty.dir/flags.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/empty.dir/link.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/empty.dir/progress.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/events.dir/DependInfo.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/events.dir/build.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/events.dir/cmake_clean.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/events.dir/depend.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/events.dir/flags.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/events.dir/link.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/events.dir/progress.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/gamma.dir/DependInfo.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/gamma.dir/build.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/gamma.dir/cmake_clean.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/gamma.dir/depend.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/gamma.dir/flags.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/gamma.dir/link.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/gamma.dir/progress.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/glfwinfo.dir/DependInfo.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/glfwinfo.dir/build.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/glfwinfo.dir/cmake_clean.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/glfwinfo.dir/depend.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/glfwinfo.dir/flags.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/glfwinfo.dir/link.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/glfwinfo.dir/progress.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/icon.dir/DependInfo.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/icon.dir/build.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/icon.dir/cmake_clean.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/icon.dir/depend.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/icon.dir/flags.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/icon.dir/link.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/icon.dir/progress.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/iconify.dir/DependInfo.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/iconify.dir/build.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/iconify.dir/cmake_clean.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/iconify.dir/depend.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/iconify.dir/flags.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/iconify.dir/link.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/iconify.dir/progress.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/inputlag.dir/DependInfo.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/inputlag.dir/build.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/inputlag.dir/cmake_clean.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/inputlag.dir/depend.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/inputlag.dir/flags.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/inputlag.dir/link.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/inputlag.dir/progress.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/joysticks.dir/DependInfo.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/joysticks.dir/build.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/joysticks.dir/cmake_clean.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/joysticks.dir/depend.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/joysticks.dir/flags.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/joysticks.dir/link.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/joysticks.dir/progress.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/monitors.dir/DependInfo.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/monitors.dir/build.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/monitors.dir/cmake_clean.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/monitors.dir/depend.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/monitors.dir/flags.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/monitors.dir/link.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/monitors.dir/progress.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/msaa.dir/DependInfo.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/msaa.dir/build.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/msaa.dir/cmake_clean.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/msaa.dir/depend.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/msaa.dir/flags.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/msaa.dir/link.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/msaa.dir/progress.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/opacity.dir/DependInfo.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/opacity.dir/build.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/opacity.dir/cmake_clean.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/opacity.dir/depend.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/opacity.dir/flags.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/opacity.dir/link.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/opacity.dir/progress.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/progress.marks" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/reopen.dir/DependInfo.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/reopen.dir/build.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/reopen.dir/cmake_clean.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/reopen.dir/depend.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/reopen.dir/flags.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/reopen.dir/link.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/reopen.dir/progress.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/tearing.dir/DependInfo.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/tearing.dir/build.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/tearing.dir/cmake_clean.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/tearing.dir/depend.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/tearing.dir/flags.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/tearing.dir/link.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/tearing.dir/progress.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/threads.dir/DependInfo.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/threads.dir/build.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/threads.dir/cmake_clean.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/threads.dir/depend.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/threads.dir/flags.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/threads.dir/link.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/threads.dir/progress.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/timeout.dir/DependInfo.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/timeout.dir/build.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/timeout.dir/cmake_clean.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/timeout.dir/depend.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/timeout.dir/flags.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/timeout.dir/link.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/timeout.dir/progress.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/title.dir/DependInfo.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/title.dir/build.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/title.dir/cmake_clean.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/title.dir/depend.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/title.dir/flags.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/title.dir/link.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/title.dir/progress.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/windows.dir/DependInfo.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/windows.dir/build.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/windows.dir/cmake_clean.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/windows.dir/depend.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/windows.dir/flags.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/windows.dir/link.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/windows.dir/progress.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/cmake_install.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.vscode/settings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.10.3/CMakeCCompiler.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.10.3/CMakeCXXCompiler.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.10.3/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.10.3/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.10.3/CMakeSystem.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.10.3/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.10.3/CompilerIdC/a.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.10.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.10.3/CompilerIdCXX/a.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.cxx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/triangulation.dir/CXX.includecache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/triangulation.dir/DependInfo.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/triangulation.dir/build.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/triangulation.dir/cmake_clean.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/triangulation.dir/depend.internal" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/triangulation.dir/depend.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/triangulation.dir/flags.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/triangulation.dir/link.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/triangulation.dir/main.cpp.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/triangulation.dir/progress.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/DelaunayTriangulation3D" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/DelaunayTriangulation3D.cbp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/a.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/fragment.glsl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/inp1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/inp2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/output.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/test.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/triangulation" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/vertex.glsl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/glad.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/glfw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inp1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inp2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shader.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -384,8 +28,8 @@
       <file leaf-file-name="main.cpp" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="298" lean-forward="true" selection-start-line="298" selection-end-line="298" />
+            <state relative-caret-position="435">
+              <caret line="303" selection-start-line="303" selection-end-line="303" />
             </state>
           </provider>
         </entry>
@@ -394,6 +38,13 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/main.cpp" />
+      </list>
+    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -464,12 +115,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1530355879616</updated>
-      <workItem from="1530355882327" duration="246000" />
+      <workItem from="1530355882327" duration="678000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="246000" />
+    <option name="totallyTimeSpent" value="678000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="59" y="25" width="1307" height="743" extended-state="6" />
@@ -503,8 +154,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="298" lean-forward="true" selection-start-line="298" selection-end-line="298" />
+        <state relative-caret-position="435">
+          <caret line="303" selection-start-line="303" selection-end-line="303" />
         </state>
       </provider>
     </entry>
